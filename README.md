@@ -23,7 +23,6 @@ class SourabhAdap:
         }
         self.languageSpoken = [en_US, hi_IN]
         self.askMeAbout = [Tech, Gaming, Soccer, Anything!]
-        self.activity = "I am currenty preparing for getting placed in FAANG"
     
     def say_hi(self):
         print("Thanks for dropping by :D")
