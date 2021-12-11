@@ -5,8 +5,8 @@ A 23 year old Software Engineer from 🇮🇳 Mumbai, India:
   - 💡  *Microservices,Building Scalable Web Applications,Cloud*
   - 📚  *Data-Structures, Algorithms,System-Design*
 
-[![Linkedin: vedantthapa](https://img.shields.io/badge/-sourabhadap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourabh-adap-315705157/)](https://www.linkedin.com/in/vedantthapa/)
-[![Email Badge](https://img.shields.io/badge/-adapsourabh-6264A7?style=flat-square&logo=gmail&logoColor=white&link=mailto:adapsourabh@gmail.com)](mailto:adapsourabh@gmail.com)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sourabh-adap-315705157/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adapsourabh@gmail.com)
 [![Leetcode: sourabhadap](https://img.shields.io/badge/-sourabhadap-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/sourabhadap/)](https://leetcode.com/sourabhadap/)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/4szX1SM7gkulaICbQFfoKO?si=d572467bab0e4e8b/)(https://open.spotify.com/playlist/4szX1SM7gkulaICbQFfoKO?si=d572467bab0e4e8b)
 
