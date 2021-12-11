@@ -18,7 +18,7 @@ class SourabhAdap:
     def __init__(self):
         self.pronouns = "he" | "him"
 	self.role = "Software Engineer"
-        self.code = [Python, Flask, SQL, BootStrap, HTML, CSS, Dash, Apex charts]
+        self.code = [Python, Flask, SQL, BootStrap, HTML, CSS, Dash, ApexCharts]
         self.techStack: {
           tools: [Jupyter, MS Office, JIRA],
           databases: [MySQL, MongoDB],
