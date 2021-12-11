@@ -1,27 +1,33 @@
-<h1 align="center">Hi 👋, I'm Sourabh Adap</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hello👋, I'm Sourabh Adap!
 
-<p align="left"> <a href="https://twitter.com/adapsourabh" target="blank"><img src="https://img.shields.io/twitter/follow/adapsourabh?logo=twitter&style=for-the-badge" alt="adapsourabh" /></a> </p>
+A 23 year old Software Engineer from 🇮🇳 Mumbai, India:
+  - 🎒  *Scaler Academy 2021-22*
+  - 💡  *Microservices,Building Scalable Web Applications,Cloud*
+  - 📚  *Data-Structures, Algorithms,System-Design*
 
-- 🔭 I’m currently working on [sourabhadap](https://github.com/sourabhadap/sourabhadap)
+[![Linkedin: vedantthapa](https://img.shields.io/badge/-sourabhadap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourabh-adap-315705157/)](https://www.linkedin.com/in/vedantthapa/)
+[![Email Badge](https://img.shields.io/badge/-adapsourabh-6264A7?style=flat-square&logo=gmail&logoColor=white&link=mailto:adapsourabh@gmail.com)](mailto:adapsourabh@gmail.com)
+[![Leetcode: sourabhadap](https://img.shields.io/badge/-sourabhadap-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/sourabhadap/)](https://leetcode.com/sourabhadap/)
 
-- 🌱 I’m currently learning **Django,React**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **adapsourabh@gmail.com**
-
-- ⚡ Fun fact **Tech, Soccer, Gaming**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adapsourabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adapsourabh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sourabh-adap-315705157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourabh-adap-315705157/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sourabhadap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sourabhadap/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhadap&show_icons=true&locale=en&layout=compact" alt="sourabhadap" /></p>
-
+### About me
+```python
+class SourabhAdap:
+    def __init__(self):
+        self.pronouns = "he" | "him"
+	self.role = "Software Engineer"
+        self.code = [Python, Flask ,SQL,BootStrap, HTML, CSS]
+        self.techStack: {
+          tools: [Jupyter, MS Office, JIRA],
+          databases: [MySQL, MongoDB],
+          misc: [Git],
+        }
+        self.languageSpoken = [en_US, hi_IN]
+        self.askMeAbout = [Tech, Gaming, Soccer, Anything!]
+        self.activity = "I am currenty preparing for getting placed in FAANG"
+    
+    def say_hi(self):
+        print("Thanks for dropping by :D")
+        
+me = SourabhAdap()
+me.say_hi()
+```
